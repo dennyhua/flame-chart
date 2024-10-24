@@ -13,4 +13,4 @@ flame chart component, 一款居于d3-flame-graph的火焰图，支持数据以�
         @search="onSearch"> </comp-flame-chart>
 
 # 效果图
-<img width="1319" alt="flame effect" src="https://github.com/user-attachments/assets/c57c5c48-3463-4aad-90a1-064ecdbaba44">
+<img width="1315" alt="flame" src="https://github.com/user-attachments/assets/6c1b41b2-d635-4c9f-a8a9-ea50a831352a">
