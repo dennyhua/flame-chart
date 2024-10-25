@@ -1,4 +1,4 @@
-# flame-chart
+# flame-chart 火焰图
 flame chart component, 一款居于d3-flame-graph的火焰图，支持数据以表格、火焰图展示
 
 # usage
